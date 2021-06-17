@@ -1,3 +1,4 @@
+{% include sty.html %}
 # Home
 ---
 ![](https://images.unsplash.com/photo-1507123948929-86a949bdaa23?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&w=4800)

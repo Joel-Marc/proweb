@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b9514da053988b40",
+        "id": "5e7e29597139200f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "index.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -219,12 +219,12 @@
     "direction": "horizontal",
     "width": 312
   },
-  "active": "b9514da053988b40",
+  "active": "5e7e29597139200f",
   "lastOpenFiles": [
     "index.md",
+    "Kanban Board.md",
     "TO-READ.md",
     "Home.md",
-    "Kanban Board.md",
     "Day Planners/Day Planner-20210617.md",
     "Index.md",
     "Untitled.md",
